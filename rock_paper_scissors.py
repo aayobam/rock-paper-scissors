@@ -15,8 +15,6 @@ def user_response():
         print("Invalid value supplied, please try again")
         user_response()
         
-    
-
 
 def start_game():
     option_list = ['R', 'P', 'S']
